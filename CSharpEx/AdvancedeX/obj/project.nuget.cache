@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yA+RA7YyknBicTz017rn7zbejbRuJ87QWy+byk07FI5uIRCE8IqSgUBWCP18uPwakH47A+Wkrfa6OjNdoT1D0Q==",
+  "success": true,
+  "projectFilePath": "D:\\CSharp-Exercises\\CSharpEx\\AdvancedeX\\AdvancedeX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
