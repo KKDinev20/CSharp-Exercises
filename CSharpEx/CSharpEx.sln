@@ -6,7 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP", "OOP", "{1C1E1473-2BC
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fundamentals", "Fundamentals", "{CA8644DC-9145-4B6E-9BA4-8CC860F5EDB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_012Solutions", "_012Solutions\_012Solutions.csproj", "{343960B3-C5A3-466F-A258-6AA03CF655AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentalsEx", "FundamentalsEx\FundamentalsEx.csproj", "{343960B3-C5A3-466F-A258-6AA03CF655AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedeX", "AdvancedeX\AdvancedeX.csproj", "{90E3D363-EEF3-4902-A9F7-04A9DEE990BE}"
 EndProject

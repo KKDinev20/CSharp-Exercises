@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gSRQ+V4uSLnQtlwSPQLEH+p50ARKitIUFeX2GaLOo8uccqt3ciGxGqRZZoLVmaxpAvrVaLNuNc3V3PdMDIhk5w==",
+  "dgSpecHash": "MWDBSxbRRueDX6zvnsvlAAkYPRPRzAZoYJAv0hespPhBiyobrYxESr/4Xzm56hFT4VALzr8ecGfXDCKl363Uaw==",
   "success": true,
-  "projectFilePath": "D:\\CSharp-Exercises\\CSharpEx\\_012Solutions\\_012Solutions.csproj",
+  "projectFilePath": "D:\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\FundamentalsEx.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",

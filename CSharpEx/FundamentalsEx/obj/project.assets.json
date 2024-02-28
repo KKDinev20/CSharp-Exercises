@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp-Exercises\\CSharpEx\\_012Solutions\\_012Solutions.csproj",
-      "projectName": "_012Solutions",
-      "projectPath": "D:\\CSharp-Exercises\\CSharpEx\\_012Solutions\\_012Solutions.csproj",
+      "projectUniqueName": "D:\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\FundamentalsEx.csproj",
+      "projectName": "FundamentalsEx",
+      "projectPath": "D:\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\FundamentalsEx.csproj",
       "packagesPath": "C:\\Users\\NITRO 5\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp-Exercises\\CSharpEx\\_012Solutions\\obj\\",
+      "outputPath": "D:\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO 5\\AppData\\Roaming\\NuGet\\NuGet.Config"
