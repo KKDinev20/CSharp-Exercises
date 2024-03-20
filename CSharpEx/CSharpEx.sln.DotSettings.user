@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=3d0155ec_002Daffc_002D4866_002Da258_002Dc64e8136b519_0023SortEvenNumbers/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=4da828cd_002D8ae6_002D42bd_002Dbdee_002D118bede6fe6c_0023ProductSumThreads/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=5eb12436_002D4240_002D41c9_002Db051_002D09d451f750ef_0023CountUppercaseWords/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=75a2efaa_002Df5ec_002D48ca_002D9760_002Df0d547ddb442_0023SumNumbers/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=a9a471a4_002D4c42_002D43d0_002Da3bf_002D47679c556aaf_0023FilterByAge/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=e7623c5a_002D9319_002D46ef_002D97c6_002Da8b88eaf521a_0023AddVat/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=ed5bb5e7_002D94c1_002D4e7c_002Da270_002Df6c33a3e24bb_0023QnakievExercisesLINQ/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
