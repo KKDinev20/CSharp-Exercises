@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\bin\Debug\net7.0\ActionPrint.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\bin\Debug\net7.0\ActionPrint.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\bin\Debug\net7.0\ActionPrint.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\bin\Debug\net7.0\ActionPrint.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\bin\Debug\net7.0\ActionPrint.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\obj\Debug\net7.0\ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\obj\Debug\net7.0\ActionPrint.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\obj\Debug\net7.0\ActionPrint.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\obj\Debug\net7.0\ActionPrint.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\obj\Debug\net7.0\ActionPrint.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\obj\Debug\net7.0\ActionPrint.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\obj\Debug\net7.0\refint\ActionPrint.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\obj\Debug\net7.0\ActionPrint.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\obj\Debug\net7.0\ActionPrint.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ActionPrint\obj\Debug\net7.0\ref\ActionPrint.dll
