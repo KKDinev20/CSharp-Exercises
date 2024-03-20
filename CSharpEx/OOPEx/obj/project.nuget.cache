@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FNe4eCFVI249vCXVh2co6WgjARhbjQSh7CwaVT7b5yin8BCe2sa/4wTFJePZPwYEj8dIGwKuZT4JVoUQC4dF0Q==",
+  "dgSpecHash": "cjARQeRf2RwsivmgR0xRc9fRBzT+7tCMT3fGiPkavtkWPS46a53IxWXgymJ2g5hOjK04X3HSVmaDoWDiB0mFAw==",
   "success": true,
-  "projectFilePath": "D:\\CSharp-Exercises\\CSharpEx\\OOPEx\\OOPEx.csproj",
+  "projectFilePath": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\OOPEx\\OOPEx.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",

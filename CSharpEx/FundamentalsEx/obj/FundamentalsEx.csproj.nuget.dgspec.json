@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\FundamentalsEx.csproj": {}
+    "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\FundamentalsEx.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\FundamentalsEx.csproj": {
+    "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\FundamentalsEx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\FundamentalsEx.csproj",
+        "projectUniqueName": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\FundamentalsEx.csproj",
         "projectName": "FundamentalsEx",
-        "projectPath": "D:\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\FundamentalsEx.csproj",
+        "projectPath": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\FundamentalsEx.csproj",
         "packagesPath": "C:\\Users\\NITRO 5\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\obj\\",
+        "outputPath": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\FundamentalsEx\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO 5\\AppData\\Roaming\\NuGet\\NuGet.Config"

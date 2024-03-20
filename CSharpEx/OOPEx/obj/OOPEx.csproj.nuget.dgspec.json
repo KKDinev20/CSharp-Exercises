@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-Exercises\\CSharpEx\\OOPEx\\OOPEx.csproj": {}
+    "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\OOPEx\\OOPEx.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-Exercises\\CSharpEx\\OOPEx\\OOPEx.csproj": {
+    "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\OOPEx\\OOPEx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-Exercises\\CSharpEx\\OOPEx\\OOPEx.csproj",
+        "projectUniqueName": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\OOPEx\\OOPEx.csproj",
         "projectName": "OOPEx",
-        "projectPath": "D:\\CSharp-Exercises\\CSharpEx\\OOPEx\\OOPEx.csproj",
+        "projectPath": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\OOPEx\\OOPEx.csproj",
         "packagesPath": "C:\\Users\\NITRO 5\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-Exercises\\CSharpEx\\OOPEx\\obj\\",
+        "outputPath": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\OOPEx\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO 5\\AppData\\Roaming\\NuGet\\NuGet.Config"

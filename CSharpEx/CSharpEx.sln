@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedeX", "AdvancedeX\Ad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPEx", "OOPEx\OOPEx.csproj", "{DBD8D65A-8E5E-44C5-A187-06A90212D127}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConcurrentProgrammingExercises", "ConcurrentProgrammingExercises", "{FE6E89DE-BBC9-4F6B-ADB5-5157270DA17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSumThreads", "ProductSumThreads\ProductSumThreads.csproj", "{4DA828CD-8AE6-42BD-BDEE-118BEDE6FE6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,7 @@ Global
 		{343960B3-C5A3-466F-A258-6AA03CF655AE} = {CA8644DC-9145-4B6E-9BA4-8CC860F5EDB2}
 		{90E3D363-EEF3-4902-A9F7-04A9DEE990BE} = {9F15F1D8-CA92-4918-8E3A-5275DFF88E24}
 		{DBD8D65A-8E5E-44C5-A187-06A90212D127} = {1C1E1473-2BCA-4FF8-B808-AA6A4A951A16}
+		{4DA828CD-8AE6-42BD-BDEE-118BEDE6FE6C} = {FE6E89DE-BBC9-4F6B-ADB5-5157270DA17D}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{343960B3-C5A3-466F-A258-6AA03CF655AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -35,5 +40,9 @@ Global
 		{DBD8D65A-8E5E-44C5-A187-06A90212D127}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBD8D65A-8E5E-44C5-A187-06A90212D127}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBD8D65A-8E5E-44C5-A187-06A90212D127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA828CD-8AE6-42BD-BDEE-118BEDE6FE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA828CD-8AE6-42BD-BDEE-118BEDE6FE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA828CD-8AE6-42BD-BDEE-118BEDE6FE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA828CD-8AE6-42BD-BDEE-118BEDE6FE6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

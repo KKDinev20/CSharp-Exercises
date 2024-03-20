@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp-Exercises\\CSharpEx\\AdvancedeX\\AdvancedeX.csproj",
+      "projectUniqueName": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\AdvancedeX\\AdvancedeX.csproj",
       "projectName": "AdvancedeX",
-      "projectPath": "D:\\CSharp-Exercises\\CSharpEx\\AdvancedeX\\AdvancedeX.csproj",
+      "projectPath": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\AdvancedeX\\AdvancedeX.csproj",
       "packagesPath": "C:\\Users\\NITRO 5\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp-Exercises\\CSharpEx\\AdvancedeX\\obj\\",
+      "outputPath": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\AdvancedeX\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO 5\\AppData\\Roaming\\NuGet\\NuGet.Config"
