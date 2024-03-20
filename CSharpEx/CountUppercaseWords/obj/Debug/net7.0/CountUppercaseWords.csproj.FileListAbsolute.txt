@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\bin\Debug\net7.0\CountUppercaseWords.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\bin\Debug\net7.0\CountUppercaseWords.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\bin\Debug\net7.0\CountUppercaseWords.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\bin\Debug\net7.0\CountUppercaseWords.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\bin\Debug\net7.0\CountUppercaseWords.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\obj\Debug\net7.0\CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\obj\Debug\net7.0\CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\obj\Debug\net7.0\CountUppercaseWords.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\obj\Debug\net7.0\CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\obj\Debug\net7.0\CountUppercaseWords.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\obj\Debug\net7.0\CountUppercaseWords.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\obj\Debug\net7.0\refint\CountUppercaseWords.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\obj\Debug\net7.0\CountUppercaseWords.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\obj\Debug\net7.0\CountUppercaseWords.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CountUppercaseWords\obj\Debug\net7.0\ref\CountUppercaseWords.dll

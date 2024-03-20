@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LqSGXAaF8cnU01j9bvSRaYxHm21Hma4ZH+IyncseBsSppyX4XT5D9dr/cCixQ8NiZKXRCl/2bxa9SJcz971+Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\ProductSumThreads\\ProductSumThreads.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

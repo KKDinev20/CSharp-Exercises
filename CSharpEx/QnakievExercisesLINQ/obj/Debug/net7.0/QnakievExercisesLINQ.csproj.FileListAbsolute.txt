@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\bin\Debug\net7.0\QnakievExercisesLINQ.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\bin\Debug\net7.0\QnakievExercisesLINQ.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\bin\Debug\net7.0\QnakievExercisesLINQ.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\bin\Debug\net7.0\QnakievExercisesLINQ.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\bin\Debug\net7.0\QnakievExercisesLINQ.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\obj\Debug\net7.0\QnakievExercisesLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\obj\Debug\net7.0\QnakievExercisesLINQ.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\obj\Debug\net7.0\QnakievExercisesLINQ.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\obj\Debug\net7.0\QnakievExercisesLINQ.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\obj\Debug\net7.0\QnakievExercisesLINQ.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\obj\Debug\net7.0\QnakievExercisesLINQ.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\obj\Debug\net7.0\refint\QnakievExercisesLINQ.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\obj\Debug\net7.0\QnakievExercisesLINQ.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\obj\Debug\net7.0\QnakievExercisesLINQ.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\QnakievExercisesLINQ\obj\Debug\net7.0\ref\QnakievExercisesLINQ.dll

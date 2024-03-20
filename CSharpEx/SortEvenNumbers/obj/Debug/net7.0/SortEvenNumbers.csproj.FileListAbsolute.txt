@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\bin\Debug\net7.0\SortEvenNumbers.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\bin\Debug\net7.0\SortEvenNumbers.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\bin\Debug\net7.0\SortEvenNumbers.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\bin\Debug\net7.0\SortEvenNumbers.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\bin\Debug\net7.0\SortEvenNumbers.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\obj\Debug\net7.0\SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\obj\Debug\net7.0\SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\obj\Debug\net7.0\SortEvenNumbers.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\obj\Debug\net7.0\SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\obj\Debug\net7.0\SortEvenNumbers.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\obj\Debug\net7.0\SortEvenNumbers.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\obj\Debug\net7.0\refint\SortEvenNumbers.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\obj\Debug\net7.0\SortEvenNumbers.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\obj\Debug\net7.0\SortEvenNumbers.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SortEvenNumbers\obj\Debug\net7.0\ref\SortEvenNumbers.dll

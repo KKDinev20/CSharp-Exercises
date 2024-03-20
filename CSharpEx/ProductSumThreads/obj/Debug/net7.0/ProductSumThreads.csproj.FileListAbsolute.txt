@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\bin\Debug\net7.0\ProductSumThreads.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\bin\Debug\net7.0\ProductSumThreads.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\bin\Debug\net7.0\ProductSumThreads.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\bin\Debug\net7.0\ProductSumThreads.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\bin\Debug\net7.0\ProductSumThreads.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\obj\Debug\net7.0\ProductSumThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\obj\Debug\net7.0\ProductSumThreads.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\obj\Debug\net7.0\ProductSumThreads.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\obj\Debug\net7.0\ProductSumThreads.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\obj\Debug\net7.0\ProductSumThreads.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\obj\Debug\net7.0\ProductSumThreads.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\obj\Debug\net7.0\refint\ProductSumThreads.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\obj\Debug\net7.0\ProductSumThreads.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\obj\Debug\net7.0\ProductSumThreads.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ProductSumThreads\obj\Debug\net7.0\ref\ProductSumThreads.dll

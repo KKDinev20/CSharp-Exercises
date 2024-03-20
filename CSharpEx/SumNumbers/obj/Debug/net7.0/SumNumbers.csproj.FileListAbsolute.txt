@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\bin\Debug\net7.0\SumNumbers.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\bin\Debug\net7.0\SumNumbers.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\bin\Debug\net7.0\SumNumbers.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\bin\Debug\net7.0\SumNumbers.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\bin\Debug\net7.0\SumNumbers.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\obj\Debug\net7.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\obj\Debug\net7.0\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\obj\Debug\net7.0\SumNumbers.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\obj\Debug\net7.0\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\obj\Debug\net7.0\SumNumbers.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\obj\Debug\net7.0\SumNumbers.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\obj\Debug\net7.0\refint\SumNumbers.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\obj\Debug\net7.0\SumNumbers.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\obj\Debug\net7.0\SumNumbers.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\SumNumbers\obj\Debug\net7.0\ref\SumNumbers.dll

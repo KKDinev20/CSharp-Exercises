@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\bin\Debug\net7.0\AddVat.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\bin\Debug\net7.0\AddVat.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\bin\Debug\net7.0\AddVat.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\bin\Debug\net7.0\AddVat.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\bin\Debug\net7.0\AddVat.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\obj\Debug\net7.0\AddVat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\obj\Debug\net7.0\AddVat.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\obj\Debug\net7.0\AddVat.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\obj\Debug\net7.0\AddVat.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\obj\Debug\net7.0\AddVat.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\obj\Debug\net7.0\AddVat.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\obj\Debug\net7.0\refint\AddVat.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\obj\Debug\net7.0\AddVat.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\obj\Debug\net7.0\AddVat.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\AddVat\obj\Debug\net7.0\ref\AddVat.dll
