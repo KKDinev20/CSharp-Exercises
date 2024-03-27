@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\bin\Debug\net7.0\CSharpLINQExercises.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\bin\Debug\net7.0\CSharpLINQExercises.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\bin\Debug\net7.0\CSharpLINQExercises.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\bin\Debug\net7.0\CSharpLINQExercises.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\bin\Debug\net7.0\CSharpLINQExercises.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\obj\Debug\net7.0\CSharpLINQExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\obj\Debug\net7.0\CSharpLINQExercises.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\obj\Debug\net7.0\CSharpLINQExercises.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\obj\Debug\net7.0\CSharpLINQExercises.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\obj\Debug\net7.0\CSharpLINQExercises.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\obj\Debug\net7.0\CSharpLINQExercises.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\obj\Debug\net7.0\refint\CSharpLINQExercises.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\obj\Debug\net7.0\CSharpLINQExercises.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\obj\Debug\net7.0\CSharpLINQExercises.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\CSharpLINQExercises\obj\Debug\net7.0\ref\CSharpLINQExercises.dll

@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\bin\Debug\net7.0\StarvationExample.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\bin\Debug\net7.0\StarvationExample.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\bin\Debug\net7.0\StarvationExample.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\bin\Debug\net7.0\StarvationExample.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\bin\Debug\net7.0\StarvationExample.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\obj\Debug\net7.0\StarvationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\obj\Debug\net7.0\StarvationExample.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\obj\Debug\net7.0\StarvationExample.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\obj\Debug\net7.0\StarvationExample.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\obj\Debug\net7.0\StarvationExample.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\obj\Debug\net7.0\StarvationExample.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\obj\Debug\net7.0\refint\StarvationExample.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\obj\Debug\net7.0\StarvationExample.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\obj\Debug\net7.0\StarvationExample.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\StarvationExample\obj\Debug\net7.0\ref\StarvationExample.dll

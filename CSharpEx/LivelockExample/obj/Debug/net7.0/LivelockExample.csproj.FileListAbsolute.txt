@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\bin\Debug\net7.0\LivelockExample.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\bin\Debug\net7.0\LivelockExample.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\bin\Debug\net7.0\LivelockExample.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\bin\Debug\net7.0\LivelockExample.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\bin\Debug\net7.0\LivelockExample.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\obj\Debug\net7.0\LivelockExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\obj\Debug\net7.0\LivelockExample.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\obj\Debug\net7.0\LivelockExample.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\obj\Debug\net7.0\LivelockExample.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\obj\Debug\net7.0\LivelockExample.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\obj\Debug\net7.0\LivelockExample.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\obj\Debug\net7.0\refint\LivelockExample.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\obj\Debug\net7.0\LivelockExample.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\obj\Debug\net7.0\LivelockExample.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\LivelockExample\obj\Debug\net7.0\ref\LivelockExample.dll

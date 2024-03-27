@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\bin\Debug\net7.0\PriorityInversion.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\bin\Debug\net7.0\PriorityInversion.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\bin\Debug\net7.0\PriorityInversion.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\bin\Debug\net7.0\PriorityInversion.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\bin\Debug\net7.0\PriorityInversion.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\obj\Debug\net7.0\PriorityInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\obj\Debug\net7.0\PriorityInversion.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\obj\Debug\net7.0\PriorityInversion.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\obj\Debug\net7.0\PriorityInversion.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\obj\Debug\net7.0\PriorityInversion.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\obj\Debug\net7.0\PriorityInversion.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\obj\Debug\net7.0\refint\PriorityInversion.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\obj\Debug\net7.0\PriorityInversion.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\obj\Debug\net7.0\PriorityInversion.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\PriorityInversion\obj\Debug\net7.0\ref\PriorityInversion.dll

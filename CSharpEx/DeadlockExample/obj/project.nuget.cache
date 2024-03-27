@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7PoJc/AWqCT/8KnwSs5puIwFvVjwJ9xqOnGzlXuunwaQvOXCuy/IDOcxXvsWoydsoHbjYPYy+CUKQitBZYo2oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\DeadlockExample\\DeadlockExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\bin\Debug\net7.0\ThreadsDeadlockLivelock.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\bin\Debug\net7.0\ThreadsDeadlockLivelock.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\bin\Debug\net7.0\ThreadsDeadlockLivelock.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\bin\Debug\net7.0\ThreadsDeadlockLivelock.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\bin\Debug\net7.0\ThreadsDeadlockLivelock.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\obj\Debug\net7.0\ThreadsDeadlockLivelock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\obj\Debug\net7.0\ThreadsDeadlockLivelock.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\obj\Debug\net7.0\ThreadsDeadlockLivelock.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\obj\Debug\net7.0\ThreadsDeadlockLivelock.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\obj\Debug\net7.0\ThreadsDeadlockLivelock.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\obj\Debug\net7.0\ThreadsDeadlockLivelock.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\obj\Debug\net7.0\refint\ThreadsDeadlockLivelock.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\obj\Debug\net7.0\ThreadsDeadlockLivelock.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\obj\Debug\net7.0\ThreadsDeadlockLivelock.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\ThreadsDeadlockLivelock\obj\Debug\net7.0\ref\ThreadsDeadlockLivelock.dll

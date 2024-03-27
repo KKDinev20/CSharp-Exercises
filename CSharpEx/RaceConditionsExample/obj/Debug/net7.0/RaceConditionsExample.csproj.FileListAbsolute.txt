@@ -1,0 +1,15 @@
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\bin\Debug\net7.0\RaceConditionsExample.exe
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\bin\Debug\net7.0\RaceConditionsExample.deps.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\bin\Debug\net7.0\RaceConditionsExample.runtimeconfig.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\bin\Debug\net7.0\RaceConditionsExample.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\bin\Debug\net7.0\RaceConditionsExample.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\obj\Debug\net7.0\RaceConditionsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\obj\Debug\net7.0\RaceConditionsExample.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\obj\Debug\net7.0\RaceConditionsExample.AssemblyInfo.cs
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\obj\Debug\net7.0\RaceConditionsExample.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\obj\Debug\net7.0\RaceConditionsExample.sourcelink.json
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\obj\Debug\net7.0\RaceConditionsExample.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\obj\Debug\net7.0\refint\RaceConditionsExample.dll
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\obj\Debug\net7.0\RaceConditionsExample.pdb
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\obj\Debug\net7.0\RaceConditionsExample.genruntimeconfig.cache
+C:\Users\NITRO 5\RiderProjects\CSharp-Exercises\CSharpEx\RaceConditionsExample\obj\Debug\net7.0\ref\RaceConditionsExample.dll

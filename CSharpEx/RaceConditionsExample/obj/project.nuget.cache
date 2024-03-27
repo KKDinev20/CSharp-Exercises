@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "whl5F4PM9Lb69flmTbjzW/C/2rgWBYfKSwtRcrjYZn8GEINs9QHjHvFYyZBMhF5mPL/J2x9xTylOl211a6Qdlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NITRO 5\\RiderProjects\\CSharp-Exercises\\CSharpEx\\RaceConditionsExample\\RaceConditionsExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
